@@ -3,7 +3,7 @@
 
 環境
 OS:Windows10
-Anaconda
+仮想環境:Anaconda
 Python
 Jupyter Notebook
 Google Colaboratory
