@@ -9,3 +9,4 @@ Jupyter Notebook
 Google Colaboratory
 Numpy
 Spider
+PyTorch
