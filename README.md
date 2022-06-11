@@ -12,4 +12,4 @@ Spider
 PyTorch
 TensorFlow
 その他
-モジュール作成
+モジュール
