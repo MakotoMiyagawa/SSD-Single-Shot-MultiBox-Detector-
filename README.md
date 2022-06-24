@@ -11,5 +11,5 @@ Numpy
 Spider
 PyTorch
 TensorFlow
-その他
 モジュール各種
+その他
