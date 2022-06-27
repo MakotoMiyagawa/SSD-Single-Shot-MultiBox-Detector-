@@ -12,4 +12,4 @@ Spider
 PyTorch
 TensorFlow
 モジュール各種
-その他
+その他2
